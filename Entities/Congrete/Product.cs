@@ -1,10 +1,10 @@
-﻿using Entities.Abstract;
-using System;
+﻿using System;
 using Entities.Congrete;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Core.Entities;
 
 namespace Entities.Congrete
 {
